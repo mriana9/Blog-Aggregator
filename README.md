@@ -13,9 +13,3 @@ Before running the program, ensure you have the following installed:
 * [Node.js](https://nodejs.org/) (v18+)
 * [PostgreSQL](https://www.postgresql.org/)
 * A running PostgreSQL database instance.
-
-## ⚙️ Setup
-1. **Clone the repository**:
-   ```bash
-   git clone <your-repo-link>
-   cd gator
